@@ -1,0 +1,14 @@
+# Sample Futoshiki 5x5 puzzle - coordinates are 1-based.
+GRID
+5
+
+GIVEN_VALUES
+1,1,1
+2,3,4
+4,5,3
+
+COMPARISON
+1,1,<,1,2
+1,5,>,2,5
+2,2,<,3,2
+3,3,>,4,3

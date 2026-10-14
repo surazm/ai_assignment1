@@ -1,0 +1,10 @@
+# Valid TXT format, but these two comparisons cannot both hold
+# in a 2x2 Latin square (Futoshiki).
+GRID
+2
+
+GIVEN_VALUES
+
+COMPARISON
+1,1,<,1,2
+2,1,<,2,2

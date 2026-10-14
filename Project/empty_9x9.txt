@@ -1,0 +1,7 @@
+# Larger test puzzle (no clues), useful for demonstrating time limits.
+GRID
+9
+
+GIVEN_VALUES
+
+COMPARISON
